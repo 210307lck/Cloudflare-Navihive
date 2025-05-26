@@ -22,7 +22,7 @@
         }
     ],
     "vars": {
-        "AUTH_ENABLED": "true",
+        "AUTH_ENABLED": "false",
         "AUTH_USERNAME": "root",
         "AUTH_PASSWORD": "root",
         "AUTH_SECRET": "kun"
